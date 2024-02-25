@@ -1,0 +1,16 @@
+
+.section{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    color: white;
+    gap: 0.6rem;
+    justify-content: ;
+}
+.section > div{
+    font-size: 12px;
+    background-color: rgb(111, 111, 111);
+}
+.description{
+    padding: 1rem;
+    border: 0.6px solid white;
+}
